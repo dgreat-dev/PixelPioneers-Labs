@@ -1,0 +1,16 @@
+{
+  "name": "pixelpioneers-labs",
+  "version": "0.1.0",
+  "private": true,
+  "description": "PixelPioneers Collective creator-focused AI agent starter",
+  "scripts": {
+    "dev": "eve dev",
+    "build": "eve build",
+    "start": "eve start"
+  },
+  "dependencies": {
+    "eve": "latest",
+    "ai": "latest",
+    "zod": "latest"
+  }
+}
